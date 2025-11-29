@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-simplemarkdown"
+description = "A simple markdown node for ComfyUI"
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/Mohamed-Sakr/ComfyUI-SimpleMarkdown"
+
+[tool.comfy]
+PublisherId = "mohamedsakr"
+DisplayName = "Simple Markdown"
+Icon = "" # Optional: URL to an icon
